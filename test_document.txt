@@ -1,5 +1,4 @@
-This is a text file used as input to the handwriting generation command.
- The command will split the text into lines.
- Then it will generate handwriting images for every line and concatenate them into a single image.
- Finally, the image will be saved in a specified path.
- Consistent style across the whole page is achieved by priming the network with the handwriting of the first line.
+has been a subject of great scientific fascination for centuries captivating the minds of both
+ scholars and laypeople alike. In this remarkable phenomenon, an object traverses a straight
+ path while maintaining a uniform speed. Imagine a sloth on a skateboard, gliding effortlessly
+ down a smooth, endless road, that's the kind of majestic poetry that is motion at constant velocity.
